@@ -1,0 +1,2 @@
+rootProject.name = "HomeTask-1_kotlin"
+include ':app'
